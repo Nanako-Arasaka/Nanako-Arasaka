@@ -23,14 +23,14 @@
 
 <div align="center">
   <a href="https://github.com/Nanako-Arasaka" title="查看我的 GitHub 主页">
-    <img src="https://github-readme-stats.shion.dev/api?username=Nanako-Arasaka&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=fff0f5,ffe4e1&amp;title_color=e84393&amp;text_color=2d3436&amp;icon_color=fd79a8&amp;hide_border=true" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Nanako-Arasaka&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=fff0f5&amp;title_color=e84393&amp;text_color=2d3436&amp;icon_color=fd79a8&amp;hide_border=true" alt="GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/Nanako-Arasaka?tab=repositories" title="查看我的全部仓库">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nanako-Arasaka&amp;layout=compact&amp;bg_color=fff0f5,ffe4e1&amp;title_color=e84393&amp;text_color=2d3436&amp;hide_border=true" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nanako-Arasaka&amp;layout=compact&amp;bg_color=fff0f5&amp;title_color=e84393&amp;text_color=2d3436&amp;hide_border=true" alt="Top Languages" width="49%" />
   </a>
   <br />
   <a href="https://github.com/Nanako-Arasaka" title="查看我的贡献记录">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanako-Arasaka&amp;bg_color=fff0f5,ffe4e1&amp;color=2d3436&amp;line=e84393&amp;point=fd79a8&amp;area_color=ffe0e6&amp;hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanako-Arasaka&amp;bg_color=fff0f5&amp;color=2d3436&amp;line=e84393&amp;point=fd79a8&amp;area_color=ffe0e6&amp;hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </div>
 
@@ -39,16 +39,16 @@
 
 <div align="center">
   <a href="https://github.com/Nanako-Arasaka/StressWatch">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=StressWatch&amp;theme=radical&amp;hide_border=true" alt="StressWatch" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=StressWatch&amp;bg_color=fff0f5&amp;title_color=e84393&amp;text_color=2d3436&amp;icon_color=fd79a8&amp;hide_border=true" alt="StressWatch" />
   </a>
   <a href="https://github.com/Nanako-Arasaka/dog">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=dog&amp;theme=radical&amp;hide_border=true" alt="dog" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=dog&amp;bg_color=fff0f5&amp;title_color=e84393&amp;text_color=2d3436&amp;icon_color=fd79a8&amp;hide_border=true" alt="dog" />
   </a>
   <a href="https://github.com/Nanako-Arasaka/Stable-Academic-Coin">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=Stable-Academic-Coin&amp;theme=radical&amp;hide_border=true" alt="Stable-Academic-Coin" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=Stable-Academic-Coin&amp;bg_color=fff0f5&amp;title_color=e84393&amp;text_color=2d3436&amp;icon_color=fd79a8&amp;hide_border=true" alt="Stable-Academic-Coin" />
   </a>
   <a href="https://github.com/Nanako-Arasaka/C-Study-">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=C-Study-&amp;theme=radical&amp;hide_border=true" alt="C-Study-" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&amp;repo=C-Study-&amp;bg_color=fff0f5&amp;title_color=e84393&amp;text_color=2d3436&amp;icon_color=fd79a8&amp;hide_border=true" alt="C-Study-" />
   </a>
 </div>
 
