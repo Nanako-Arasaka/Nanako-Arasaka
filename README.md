@@ -1,15 +1,11 @@
-# Test Inline SVG Tooltip
+# Test Image Map Tooltip
 
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
-  <rect x="10" y="10" width="50" height="50" fill="#e84393" rx="8">
-    <title>5 contributions on 2026-08-10</title>
-  </rect>
-  <rect x="70" y="10" width="50" height="50" fill="#fd79a8" rx="8">
-    <title>3 contributions on 2026-08-11</title>
-  </rect>
-  <rect x="130" y="10" width="50" height="50" fill="#ffe0e6" rx="8">
-    <title>0 contributions on 2026-08-12</title>
-  </rect>
-</svg>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanako-Arasaka&amp;bg_color=fff0f5&amp;color=2d3436&amp;line=e84393&amp;point=fd79a8&amp;area_color=ffe0e6&amp;hide_border=true" width="800" usemap="#testmap" alt="contribution graph" />
 
-Hover the colored squares above to see tooltips.
+<map name="testmap">
+  <area shape="rect" coords="0,0,200,100" title="5 contributions on 2026-08-10" href="https://github.com/Nanako-Arasaka" />
+  <area shape="rect" coords="200,0,400,100" title="3 contributions on 2026-08-11" href="https://github.com/Nanako-Arasaka" />
+  <area shape="rect" coords="400,0,600,100" title="0 contributions on 2026-08-12" href="https://github.com/Nanako-Arasaka" />
+</map>
+
+Hover the graph areas above to see tooltips.
