@@ -1,20 +1,15 @@
-# Test td styling
+# Test data URI + td img
 
-## inline style
+## img with title and data URI
 
-<table>
-  <tr>
-    <td title="5 contributions on 2026-08-10" style="background-color:#e84393;width:15px;height:15px"></td>
-    <td title="3 contributions on 2026-08-11" style="background-color:#fd79a8;width:15px;height:15px"></td>
-    <td title="0 contributions on 2026-08-12" style="background-color:#ffe0e6;width:15px;height:15px"></td>
-  </tr>
-</table>
+<img title="5 contributions on 2026-08-10" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23e84393'/%3E%3C/svg%3E" alt="square" />
 
-## bgcolor attribute
+## td containing data URI img
 
 <table>
   <tr>
-    <td title="2 contributions on 2026-08-13" bgcolor="#e84393" width="15" height="15"></td>
-    <td title="1 contributions on 2026-08-14" bgcolor="#fd79a8" width="15" height="15"></td>
+    <td title="5 contributions on 2026-08-10"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23e84393'/%3E%3C/svg%3E" alt="d1" /></td>
+    <td title="3 contributions on 2026-08-11"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23fd79a8'/%3E%3C/svg%3E" alt="d2" /></td>
+    <td title="0 contributions on 2026-08-12"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23ffe0e6'/%3E%3C/svg%3E" alt="d3" /></td>
   </tr>
 </table>
