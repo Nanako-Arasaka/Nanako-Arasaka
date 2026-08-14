@@ -22,10 +22,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Nanako-Arasaka&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nanako-Arasaka&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Languages" width="49%" />
+  <a href="https://github.com/Nanako-Arasaka" title="查看我的 GitHub 主页">
+    <img src="https://github-readme-stats.shion.dev/api?username=Nanako-Arasaka&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/Nanako-Arasaka?tab=repositories" title="查看我的全部仓库">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nanako-Arasaka&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Languages" width="49%" />
+  </a>
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanako-Arasaka&amp;theme=radical&amp;hide_border=true&amp;area=true" alt="Activity Graph" width="100%" />
+  <a href="https://github.com/Nanako-Arasaka" title="查看我的贡献记录">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanako-Arasaka&amp;theme=radical&amp;hide_border=true&amp;area=true" alt="Activity Graph" width="100%" />
+  </a>
 </div>
 
 <!-- 精选项目 -->
