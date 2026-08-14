@@ -1,15 +1,21 @@
-# Test data URI + td img
+# Test simple styles
 
-## img with title and data URI
+## div background-color
 
-<img title="5 contributions on 2026-08-10" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23e84393'/%3E%3C/svg%3E" alt="square" />
+<div style="background-color:#e84393;width:50px;height:50px">A</div>
 
-## td containing data URI img
+## span background-color
 
-<table>
-  <tr>
-    <td title="5 contributions on 2026-08-10"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23e84393'/%3E%3C/svg%3E" alt="d1" /></td>
-    <td title="3 contributions on 2026-08-11"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23fd79a8'/%3E%3C/svg%3E" alt="d2" /></td>
-    <td title="0 contributions on 2026-08-12"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15'%3E%3Crect width='15' height='15' fill='%23ffe0e6'/%3E%3C/svg%3E" alt="d3" /></td>
-  </tr>
+<span style="background-color:#fd79a8">B</span>
+
+## table background-color
+
+<table style="background-color:#ffe0e6">
+  <tr><td>C</td></tr>
 </table>
+
+## div position relative + absolute child
+
+<div style="position:relative;width:100px;height:100px">
+  <div style="position:absolute;top:0;left:0;background-color:#e84393">D</div>
+</div>
