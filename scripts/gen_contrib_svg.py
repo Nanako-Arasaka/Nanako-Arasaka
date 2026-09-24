@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the contribution calendar (SVG + hoverable README table)."""
+"""Generate contrib/calendar.svg and refresh the README contribution block."""
 
 from __future__ import annotations
 
@@ -23,18 +23,12 @@ LEVEL_FILL = {
     "THIRD_QUARTILE": "#f368a0",
     "FOURTH_QUARTILE": "#e84393",
 }
-LEVEL_ORDER = ("NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE")
-LEVEL_FILE = {
-    "NONE": "level0.svg",
-    "FIRST_QUARTILE": "level1.svg",
-    "SECOND_QUARTILE": "level2.svg",
-    "THIRD_QUARTILE": "level3.svg",
-    "FOURTH_QUARTILE": "level4.svg",
-}
 TEXT = "#2d3436"
 MUTED = "#636e72"
 TITLE = "#e84393"
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+BEGIN = "<!-- contrib-calendar:begin -->"
+END = "<!-- contrib-calendar:end -->"
 
 QUERY = """
 query($login:String!){
@@ -48,9 +42,6 @@ query($login:String!){
   }
 }
 """
-
-BEGIN = "<!-- contrib-calendar:begin -->"
-END = "<!-- contrib-calendar:end -->"
 
 
 def fetch_calendar() -> dict:
@@ -71,24 +62,6 @@ def esc(text: str) -> str:
         .replace(">", "&gt;")
         .replace('"', "&quot;")
     )
-
-
-def tip_for(count: int, date_s: str) -> str:
-    unit = "contribution" if count == 1 else "contributions"
-    return f"{count} {unit} on {date_s}"
-
-
-def write_level_svgs() -> None:
-    """GitHub strips bgcolor/style on <td>; keep tiny color tiles as images."""
-    out_dir = ROOT / "contrib"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    for level, name in LEVEL_FILE.items():
-        fill = LEVEL_FILL[level]
-        (out_dir / name).write_text(
-            f'<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">'
-            f'<rect width="12" height="12" rx="2" fill="{fill}"/></svg>\n',
-            encoding="utf-8",
-        )
 
 
 def render_svg(calendar: dict) -> str:
@@ -136,7 +109,8 @@ def render_svg(calendar: dict) -> str:
     for col, week in enumerate(weeks):
         for row, day in enumerate(week["contributionDays"]):
             fill = LEVEL_FILL.get(day["contributionLevel"], LEVEL_FILL["NONE"])
-            tip = esc(tip_for(day["contributionCount"], day["date"]))
+            unit = "contribution" if day["contributionCount"] == 1 else "contributions"
+            tip = esc(f"{day['contributionCount']} {unit} on {day['date']}")
             parts.append(
                 f'<rect x="{left + col * step}" y="{top + row * step}" width="{cell}" '
                 f'height="{cell}" rx="2" fill="{fill}"><title>{tip}</title></rect>'
@@ -164,111 +138,38 @@ def render_svg(calendar: dict) -> str:
     return "\n".join(parts) + "\n"
 
 
-def render_html_table(calendar: dict) -> str:
-    """Hoverable HTML table for GitHub README (title tooltips on each day)."""
-    weeks = calendar["weeks"]
+def render_block(calendar: dict) -> str:
     total = calendar["totalContributions"]
-    # GitHub weekday: 0 = Sunday; label Mon/Wed/Fri like GitHub's graph
-    row_labels = {1: "Mon", 3: "Wed", 5: "Fri"}
-
-    # Month header: one cell per week, label when month changes
-    month_cells = ["    <td></td>"]
-    last_month = None
-    for i, week in enumerate(weeks):
-        day0 = date.fromisoformat(week["contributionDays"][0]["date"])
-        if last_month is None or day0.month != last_month:
-            month_cells.append(f"    <td align=\"left\">{MONTHS[day0.month - 1]}</td>")
-            last_month = day0.month
-        else:
-            month_cells.append("    <td></td>")
-
-    lines = [
-        BEGIN,
-        f"<p><b>{total} contributions</b> in the last year · 悬停查看每日详情</p>",
-        "",
-        '<table cellspacing="2">',
-        "  <tr>",
-        *month_cells,
-        "  </tr>",
-    ]
-
-    for weekday in range(7):
-        label = row_labels.get(weekday, "")
-        lines.append("  <tr>")
-        lines.append(f"    <td align=\"right\"><sub>{label}</sub></td>")
-        for week in weeks:
-            days = week["contributionDays"]
-            # contributionDays are ordered; weekday field is authoritative
-            day = next((d for d in days if d["weekday"] == weekday), None)
-            if day is None:
-                lines.append("    <td width=\"12\" height=\"12\"></td>")
-                continue
-            level = day["contributionLevel"]
-            fill = LEVEL_FILL.get(level, LEVEL_FILL["NONE"])
-            img = LEVEL_FILE.get(level, "level0.svg")
-            tip = esc(tip_for(day["contributionCount"], day["date"]))
-            lines.append(
-                f"    <td width=\"12\" height=\"12\" title=\"{tip}\">"
-                f'<img src="https://raw.githubusercontent.com/{LOGIN}/Nanako-Arasaka/main/contrib/{img}" '
-                f'width="12" height="12" alt="" title="{tip}" /></td>'
-            )
-        lines.append("  </tr>")
-
-    # Legend
-    legend = '    <td></td><td align="right"><sub>Less</sub></td>'
-    for level in LEVEL_ORDER:
-        img = LEVEL_FILE[level]
-        legend += (
-            f'    <td width="12" height="12">'
-            f'<img src="https://raw.githubusercontent.com/{LOGIN}/Nanako-Arasaka/main/contrib/{img}" '
-            f'width="12" height="12" alt="" /></td>'
-        )
-    legend += '    <td><sub>More</sub></td>'
-    lines.append("  <tr>")
-    lines.append(legend)
-    lines.append("  </tr>")
-    lines.append("</table>")
-    lines.append(END)
-    return "\n".join(lines) + "\n"
+    alt = esc(f"{total} contributions in the last year")
+    return "\n".join(
+        [
+            BEGIN,
+            f"<p><b>{total} contributions</b> in the last year</p>",
+            "",
+            '<div align="center">',
+            f'  <img src="./contrib/calendar.svg" alt="{alt}" />',
+            "</div>",
+            END,
+        ]
+    )
 
 
 def update_readme(calendar: dict) -> None:
     if not README.exists():
         return
     text = README.read_text(encoding="utf-8")
-    block = render_html_table(calendar)
-
+    block = render_block(calendar)
     if BEGIN in text and END in text:
-        pattern = re.compile(
-            re.escape(BEGIN) + r".*?" + re.escape(END),
-            flags=re.S,
-        )
-        updated = pattern.sub(block.strip(), text, count=1)
-    else:
-        # replace legacy static SVG section if markers are missing
         updated = re.sub(
-            r"(\*\*)\d+(\s+contributions\*\* in the last year · 悬停查看每日详情\n\n)"
-            r"(?:<div align=\"center\">\n  <img src=\"\./contrib/calendar\.svg\"[^>]*>\n</div>|<!-- contrib-calendar:begin -->.*?<!-- contrib-calendar:end -->)",
-            rf"\g<1>{block.strip()}",
+            re.escape(BEGIN) + r".*?" + re.escape(END),
+            block,
             text,
             count=1,
             flags=re.S,
         )
-        if BEGIN not in updated:
-            updated = re.sub(
-                r"(\*\*)\d+(\s+contributions\*\* in the last year · 悬停查看每日详情)",
-                rf"\g<1>\n\n{block.strip()}",
-                updated,
-                count=1,
-            )
-
-    # keep total in the prose line outside the generated block
-    updated = re.sub(
-        r"(\*\*)\d+(\s+contributions\*\* in the last year)",
-        rf"\g<1>{calendar['totalContributions']}\g<2>",
-        updated,
-        count=1,
-    )
+    else:
+        updated = text
+    updated = updated.replace(" · 悬停查看每日详情", "").replace("悬停查看每日详情", "")
     if updated != text:
         README.write_text(updated, encoding="utf-8")
         print(f"updated README · total={calendar['totalContributions']}")
@@ -286,7 +187,6 @@ def main() -> int:
         calendar = fetch_calendar()
 
     SVG_OUT.parent.mkdir(parents=True, exist_ok=True)
-    write_level_svgs()
     SVG_OUT.write_text(render_svg(calendar), encoding="utf-8")
     update_readme(calendar)
     print(f"wrote {SVG_OUT} · total={calendar['totalContributions']}")
