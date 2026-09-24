@@ -209,7 +209,8 @@ def render_html_table(calendar: dict) -> str:
             tip = esc(tip_for(day["contributionCount"], day["date"]))
             lines.append(
                 f"    <td width=\"12\" height=\"12\" title=\"{tip}\">"
-                f'<img src="./contrib/{img}" width="12" height="12" alt="" /></td>'
+                f'<img src="https://raw.githubusercontent.com/{LOGIN}/Nanako-Arasaka/main/contrib/{img}" '
+                f'width="12" height="12" alt="" title="{tip}" /></td>'
             )
         lines.append("  </tr>")
 
@@ -219,7 +220,8 @@ def render_html_table(calendar: dict) -> str:
         img = LEVEL_FILE[level]
         legend += (
             f'    <td width="12" height="12">'
-            f'<img src="./contrib/{img}" width="12" height="12" alt="" /></td>'
+            f'<img src="https://raw.githubusercontent.com/{LOGIN}/Nanako-Arasaka/main/contrib/{img}" '
+            f'width="12" height="12" alt="" /></td>'
         )
     legend += '    <td><sub>More</sub></td>'
     lines.append("  <tr>")
