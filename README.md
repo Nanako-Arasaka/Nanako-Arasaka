@@ -52,20 +52,32 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Nanako-Arasaka/StressWatch">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=StressWatch&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="StressWatch" />
-  </a>
-  <a href="https://github.com/Nanako-Arasaka/dog">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=dog&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="dog" />
-  </a>
-  <a href="https://github.com/Nanako-Arasaka/Stable-Academic-Coin">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=Stable-Academic-Coin&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="Stable-Academic-Coin" />
-  </a>
-  <a href="https://github.com/Nanako-Arasaka/GO2_Agent">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=GO2_Agent&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="GO2_Agent" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Nanako-Arasaka/StressWatch">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=StressWatch&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="StressWatch" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Nanako-Arasaka/dog">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=dog&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="dog" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Nanako-Arasaka/Stable-Academic-Coin">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=Stable-Academic-Coin&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="Stable-Academic-Coin" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Nanako-Arasaka/GO2_Agent">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nanako-Arasaka&repo=GO2_Agent&bg_color=45,fff0f5,ffe4e1&title_color=e84393&text_color=2d3436&hide_border=true" alt="GO2_Agent" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 底部波浪横幅 -->
 <div align="center">
