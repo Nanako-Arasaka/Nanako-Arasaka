@@ -92,398 +92,398 @@
   </tr>
   <tr>
     <td align="right"><sub></sub></td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-04-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-31">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#fd79a8" title="5 contributions on 2026-06-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#e84393" title="19 contributions on 2026-08-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="4 contributions on 2026-09-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-20">&#8203;</td>
+    <td width="12" height="12" title="0 contributions on 2025-09-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-09-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-19"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-04-19"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-31"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="5 contributions on 2026-06-28"><img src="./contrib/level2.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-19"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="19 contributions on 2026-08-16"><img src="./contrib/level4.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-23"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="4 contributions on 2026-09-13"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
   </tr>
   <tr>
     <td align="right"><sub>Mon</sub></td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2025-11-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-06-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-07-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#f368a0" title="12 contributions on 2026-08-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-31">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-21">&#8203;</td>
+    <td width="12" height="12" title="0 contributions on 2025-09-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-09-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2025-11-17"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-19"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-06-15"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-07-06"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-10"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="12 contributions on 2026-08-17"><img src="./contrib/level3.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-31"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-07"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-21"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
   </tr>
   <tr>
     <td align="right"><sub></sub></td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-31">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-05-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-06-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-06-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-06-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="4 contributions on 2026-08-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#f368a0" title="12 contributions on 2026-09-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-22">&#8203;</td>
+    <td width="12" height="12" title="0 contributions on 2025-09-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-09-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-31"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-05-19"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-06-09"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-06-16"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-06-30"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="4 contributions on 2026-08-11"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-25"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-01"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-08"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="12 contributions on 2026-09-15"><img src="./contrib/level3.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
   </tr>
   <tr>
     <td align="right"><sub>Wed</sub></td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-31">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#e84393" title="18 contributions on 2026-04-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-05-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#f368a0" title="10 contributions on 2026-08-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#fd79a8" title="6 contributions on 2026-08-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-09-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-23">&#8203;</td>
+    <td width="12" height="12" title="0 contributions on 2025-09-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-19"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-31"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="18 contributions on 2026-04-01"><img src="./contrib/level4.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-05-20"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="10 contributions on 2026-08-05"><img src="./contrib/level3.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="6 contributions on 2026-08-12"><img src="./contrib/level2.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-19"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-09-09"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-23"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
   </tr>
   <tr>
     <td align="right"><sub></sub></td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-06-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="3 contributions on 2026-06-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-07-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#f368a0" title="12 contributions on 2026-08-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#f368a0" title="11 contributions on 2026-08-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-09-24">&#8203;</td>
+    <td width="12" height="12" title="0 contributions on 2025-09-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-19"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-19"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-06-11"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="3 contributions on 2026-06-18"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-07-02"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="12 contributions on 2026-08-06"><img src="./contrib/level3.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="11 contributions on 2026-08-13"><img src="./contrib/level3.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-27"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-03"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-17"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-09-24"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
   </tr>
   <tr>
     <td align="right"><sub>Fri</sub></td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-31">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="4 contributions on 2026-06-19">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-06-26">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-07-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-07-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#fd79a8" title="6 contributions on 2026-07-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-31">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#e84393" title="39 contributions on 2026-08-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="2 contributions on 2026-09-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-09-18">&#8203;</td>
+    <td width="12" height="12" title="0 contributions on 2025-09-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-31"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-19"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-26"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-05"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="4 contributions on 2026-06-19"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-06-26"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-07-03"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-07-10"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="6 contributions on 2026-07-17"><img src="./contrib/level2.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-31"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="39 contributions on 2026-08-14"><img src="./contrib/level4.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-21"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="2 contributions on 2026-09-11"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-09-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
     <td width="12" height="12"></td>
   </tr>
   <tr>
     <td align="right"><sub></sub></td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-09-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-10-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-11-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2025-12-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-03">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-10">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-17">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-24">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-01-31">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-02-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-07">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-14">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-21">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-03-28">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-04-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-02">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-09">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-16">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-23">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-05-30">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-06">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-13">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-20">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-06-27">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-04">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-11">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-18">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-07-25">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-01">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-08">&#8203;</td>
-    <td width="12" height="12" bgcolor="#e84393" title="29 contributions on 2026-08-15">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffe0e6" title="0 contributions on 2026-08-22">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-08-29">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-05">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-12">&#8203;</td>
-    <td width="12" height="12" bgcolor="#ffb3c1" title="1 contribution on 2026-09-19">&#8203;</td>
+    <td width="12" height="12" title="0 contributions on 2025-09-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-10-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-15"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-11-29"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2025-12-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-03"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-10"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-17"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-24"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-01-31"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-02-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-07"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-14"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-21"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-03-28"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-04-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-02"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-09"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-16"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-23"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-05-30"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-06"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-13"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-20"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-06-27"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-04"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-11"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-18"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-07-25"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-01"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-08"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="29 contributions on 2026-08-15"><img src="./contrib/level4.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="0 contributions on 2026-08-22"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-08-29"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-05"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-12"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
+    <td width="12" height="12" title="1 contribution on 2026-09-19"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>
     <td width="12" height="12"></td>
   </tr>
   <tr>
-    <td></td><td align="right"><sub>Less</sub></td>    <td width="12" height="12" bgcolor="#ffe0e6"></td>    <td width="12" height="12" bgcolor="#ffb3c1"></td>    <td width="12" height="12" bgcolor="#fd79a8"></td>    <td width="12" height="12" bgcolor="#f368a0"></td>    <td width="12" height="12" bgcolor="#e84393"></td>    <td><sub>More</sub></td>
+    <td></td><td align="right"><sub>Less</sub></td>    <td width="12" height="12"><img src="./contrib/level0.svg" width="12" height="12" alt="" /></td>    <td width="12" height="12"><img src="./contrib/level1.svg" width="12" height="12" alt="" /></td>    <td width="12" height="12"><img src="./contrib/level2.svg" width="12" height="12" alt="" /></td>    <td width="12" height="12"><img src="./contrib/level3.svg" width="12" height="12" alt="" /></td>    <td width="12" height="12"><img src="./contrib/level4.svg" width="12" height="12" alt="" /></td>    <td><sub>More</sub></td>
   </tr>
 </table>
 <!-- contrib-calendar:end -->

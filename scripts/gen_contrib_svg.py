@@ -23,6 +23,14 @@ LEVEL_FILL = {
     "THIRD_QUARTILE": "#f368a0",
     "FOURTH_QUARTILE": "#e84393",
 }
+LEVEL_ORDER = ("NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE")
+LEVEL_FILE = {
+    "NONE": "level0.svg",
+    "FIRST_QUARTILE": "level1.svg",
+    "SECOND_QUARTILE": "level2.svg",
+    "THIRD_QUARTILE": "level3.svg",
+    "FOURTH_QUARTILE": "level4.svg",
+}
 TEXT = "#2d3436"
 MUTED = "#636e72"
 TITLE = "#e84393"
@@ -68,6 +76,19 @@ def esc(text: str) -> str:
 def tip_for(count: int, date_s: str) -> str:
     unit = "contribution" if count == 1 else "contributions"
     return f"{count} {unit} on {date_s}"
+
+
+def write_level_svgs() -> None:
+    """GitHub strips bgcolor/style on <td>; keep tiny color tiles as images."""
+    out_dir = ROOT / "contrib"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for level, name in LEVEL_FILE.items():
+        fill = LEVEL_FILL[level]
+        (out_dir / name).write_text(
+            f'<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">'
+            f'<rect width="12" height="12" rx="2" fill="{fill}"/></svg>\n',
+            encoding="utf-8",
+        )
 
 
 def render_svg(calendar: dict) -> str:
@@ -182,17 +203,24 @@ def render_html_table(calendar: dict) -> str:
             if day is None:
                 lines.append("    <td width=\"12\" height=\"12\"></td>")
                 continue
-            fill = LEVEL_FILL.get(day["contributionLevel"], LEVEL_FILL["NONE"])
+            level = day["contributionLevel"]
+            fill = LEVEL_FILL.get(level, LEVEL_FILL["NONE"])
+            img = LEVEL_FILE.get(level, "level0.svg")
             tip = esc(tip_for(day["contributionCount"], day["date"]))
             lines.append(
-                f"    <td width=\"12\" height=\"12\" bgcolor=\"{fill}\" title=\"{tip}\">&#8203;</td>"
+                f"    <td width=\"12\" height=\"12\" title=\"{tip}\">"
+                f'<img src="./contrib/{img}" width="12" height="12" alt="" /></td>'
             )
         lines.append("  </tr>")
 
     # Legend
     legend = '    <td></td><td align="right"><sub>Less</sub></td>'
-    for level in ("NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE"):
-        legend += f"    <td width=\"12\" height=\"12\" bgcolor=\"{LEVEL_FILL[level]}\"></td>"
+    for level in LEVEL_ORDER:
+        img = LEVEL_FILE[level]
+        legend += (
+            f'    <td width="12" height="12">'
+            f'<img src="./contrib/{img}" width="12" height="12" alt="" /></td>'
+        )
     legend += '    <td><sub>More</sub></td>'
     lines.append("  <tr>")
     lines.append(legend)
@@ -256,6 +284,7 @@ def main() -> int:
         calendar = fetch_calendar()
 
     SVG_OUT.parent.mkdir(parents=True, exist_ok=True)
+    write_level_svgs()
     SVG_OUT.write_text(render_svg(calendar), encoding="utf-8")
     update_readme(calendar)
     print(f"wrote {SVG_OUT} · total={calendar['totalContributions']}")
