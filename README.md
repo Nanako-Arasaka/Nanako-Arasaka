@@ -31,10 +31,10 @@
 ## 📅 Contribution Calendar
 
 <!-- contrib-calendar:begin -->
-<p><b>295 contributions</b> in the last year</p>
+<p><b>297 contributions</b> in the last year</p>
 
 <div align="center">
-  <img src="./contrib/calendar.svg" alt="295 contributions in the last year" />
+  <img src="./contrib/calendar.svg" alt="297 contributions in the last year" />
 </div>
 <!-- contrib-calendar:end -->
 
