@@ -7,7 +7,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Chan Silence</h1>
   <p><b>C++ / Python / AI Enthusiast</b></p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Code+is+my+language;Keep+learning,+keep+building&font=Fira+Code&center=true&width=460&height=45&color=ff6ec4&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Code+is+my+language;Keep+learning,+keep+fucking&font=Fira+Code&center=true&width=460&height=45&color=ff6ec4&vCenter=true&size=22" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
